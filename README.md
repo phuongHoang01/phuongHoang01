@@ -1,8 +1,7 @@
-## Hello 👋🏽, I'm Ho Ngoc Kinh (Hồ Ngọc Kính)
-
+## Hello 👋🏽, I'm Hoang The Phuong
 <img align="right" src="./rainbow_cat.gif" width="300" style="border-radius: 20px; padding: 0; box-shadow: -6px 6px 1px 2px #f0f0f0"/>
 
-**✍ Currently studying at:** <a href="https://www.tdtu.edu.vn/trang-chu" target="_blank"><b>Ton Duc Thang University</b></a>
+**✍ Currently studying at:** <a href="https://www.tdtu.edu.vn/trang-chu" target="_blank"><b>Hutech University</b></a>
 
 **⚡ Major: <b>Software Engineer</b>** 
 
